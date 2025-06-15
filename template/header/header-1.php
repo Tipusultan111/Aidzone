@@ -13,7 +13,7 @@ $top_hader_switch = get_theme_mod('top_hader_switch', true);
 
 <header class="tp-header-height">
 <!-- header area start -->
-<div class="tp-header-area tp-header-style-2 tp-header-style-3">
+<!-- <div class="tp-header-area tp-header-style-2 tp-header-style-3">
    <div class="tp-header-wrapp">
 
       <?php if($top_hader_switch == 'on') : ?>
@@ -103,6 +103,6 @@ $top_hader_switch = get_theme_mod('top_hader_switch', true);
          </div>
       </div>
    </div>
-</div>
+</div> -->
 <!-- header area end -->
 </header>

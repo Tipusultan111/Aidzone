@@ -5,7 +5,7 @@ get_header();
 
 
 
-<h1>Hello Tipu</h1>
+<!-- <h1>Hello Tipu</h1> -->
 
 
 
